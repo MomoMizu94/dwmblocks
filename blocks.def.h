@@ -2,7 +2,6 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		        /*Update Interval*/	/*Update Signal*/
     {"",    "sb-music",                             2,      17},
-    {"",    "price btc Bitcoin  ",                 60,     11},
     {"󰻠 ",  "cpu-temp",	                            2,      14},
     {"  ", "mem-usage",                            4,      15},
     {"  ", "gpu-temp",                             2,      16},
