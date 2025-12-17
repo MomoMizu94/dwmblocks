@@ -7,6 +7,7 @@ static const Block blocks[] = {
     {"  ", "gpu-temp",                             2,      16},
     {"",    "weather",                              3600,    2},
     {"  ", "clock",                                10,      1},
+    {"",    "dunst-dnd",                            0,       3},
 };
 
 //sets delimiter between status commands. NULL character ('\0') means no delimiter.
